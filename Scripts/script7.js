@@ -20,7 +20,7 @@ var App = function () {
         { title: 'You are amazing', url: 'Images/4.jpg' },
         { title: 'Good times', url: 'Images/1.jpg' },
         { title: 'You complete me', url: 'Images/2.jpg' },
-        { title: 'Sand boat', url: 'Images/3.jpg' },
+        { title: 'Best Ever', url: 'Images/3.jpg' },
         { title: 'My forever', url: 'Images/5.jpg' },
         { title: 'Love to love you', url: 'Images/6.jpg' },
     ];
